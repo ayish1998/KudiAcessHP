@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed on your local machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/kudiaccess.git
+git clone [https://github.com/ayish1998/KudiAcessHP]
 cd kudiaccess
 Install Dependencies
 Navigate to the project directory and run the following command to install the required dependencies:
